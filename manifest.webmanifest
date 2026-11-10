@@ -1,0 +1,16 @@
+{
+  "name": "Alpha Solar • Consultor",
+  "short_name": "Alpha Solar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1622",
+  "theme_color": "#0b1622",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
