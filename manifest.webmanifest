@@ -1,13 +1,13 @@
 {
-  "name": "Alpha Solar • Consultor",
-  "short_name": "Alpha Solar",
+  "name": "Alpha Energy • Consultor",
+  "short_name": "Alpha Energy",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0b1622",
   "theme_color": "#0b1622",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "/alpha-energy-logo.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
